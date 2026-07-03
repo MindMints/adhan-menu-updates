@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "build": 2,
-  "notes": "Renamed to Adhan Widget, new setup screen, Qibla compass, offline adhan voices, live volume, prayer tracking, and more.",
+  "version": "1.2",
+  "build": 3,
+  "notes": "Adhan Widget 1.2 — automatic updates from here on. Install this one once, then future updates are automatic.",
   "url": "https://github.com/MindMints/adhan-menu-updates/releases/latest"
 }

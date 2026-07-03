@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Adhan Widget</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Fri, 03 Jul 2026 14:28:09 +0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/MindMints/adhan-menu-updates/releases/download/v1.2/Adhan-Widget-1.2.zip" length="1801748" type="application/octet-stream" sparkle:edSignature="0V3UOXx4LXZvKeMiAc5bC4svPKBuTGxSC1DgOFex9fLDMqqrJwqBHLcpsmC1fJQXhzd9OL5iXhwNfLS4khQBBA=="/>
+        </item>
+    </channel>
+</rss>
