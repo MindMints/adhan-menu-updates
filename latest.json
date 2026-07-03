@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "build": 2,
-  "notes": "New Qibla compass, live volume + per-voice preview, and a cleaner menu-bar panel.",
+  "version": "1.0",
+  "build": 1,
+  "notes": "Initial release.",
   "url": "https://github.com/MindMints/adhan-menu-updates/releases/latest"
 }
