@@ -11,7 +11,7 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MindMints/Sukoon-updates/releases/download/v1.3/Sukoon-1.3.zip" length="3795854" type="application/octet-stream" sparkle:edSignature="SIGNATURE_PENDING_RUN_sign_update_Sukoon-1.3.zip"/>
+            <enclosure url="https://github.com/MindMints/Sukoon-updates/releases/download/v1.3/Sukoon-1.3.zip" length="3795854" type="application/octet-stream" sparkle:edSignature="aH1e/qaWtsSgmbXL9r2nM0ssYbYIXBr3CTKkYWBem7OEvSsvtZxgTxI2V3mcaDg71lgtZZqaQhe7sPBwITGnAg=="/>
         </item>
     </channel>
 </rss>
