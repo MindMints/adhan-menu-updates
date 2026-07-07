@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sukoon</title>
+        <item>
+            <title>1.3</title>
+            <description><![CDATA[
+                <p>Sukoon 1.3 — Arabic widget faces (widgets now follow the app language), plus automatic silent updates via Sparkle.</p>
+            ]]></description>
+            <pubDate>Tue, 07 Jul 2026 10:15:00 +0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MindMints/Sukoon-updates/releases/download/v1.3/Sukoon-1.3.zip" length="3795854" type="application/octet-stream" sparkle:edSignature="SIGNATURE_PENDING_RUN_sign_update_Sukoon-1.3.zip"/>
+        </item>
+    </channel>
+</rss>
