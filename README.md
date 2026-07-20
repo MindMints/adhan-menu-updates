@@ -23,7 +23,7 @@ macOS prayer-times menu bar app. Source lives in the private repos
 7. Commit here, create the GitHub Release `v<ver>` with the zip attached — **owner publishes; never publish without explicit approval.**
 8. Smoke-test: serve this repo with `python3 -m http.server`, `defaults write ai.mindmints.Sukoon SUFeedURL http://localhost:8000/sukoon/appcast.xml`, run an older build, Check for Updates, then `defaults delete ai.mindmints.Sukoon SUFeedURL`.
 
-Signing note: releases are currently Apple Development-signed (no Developer ID
-cert on the build machine). Sparkle updates still verify via EdDSA, but enroll
-team `45QCZ72475` for a Developer ID Application certificate + notarization
-before wider distribution.
+Signing note: releases from 1.4 onward are **Developer ID-signed and notarized**
+(team `45QCZ72475`) — Gatekeeper accepts them with no warnings. Sparkle updates
+additionally verify via EdDSA. Notarize + staple before zipping: `notarytool
+submit --wait`, then `stapler staple`, then `ditto`.
