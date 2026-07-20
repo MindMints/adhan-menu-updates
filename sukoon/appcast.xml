@@ -3,6 +3,25 @@
     <channel>
         <title>Sukoon</title>
         <item>
+            <title>1.5</title>
+            <description><![CDATA[
+                <p>Sukoon 1.5 — a polish release from a full UI/UX audit. 31 fixes.</p>
+                <ul>
+                <li><b>Accent colors now work</b> — pick any of the six accents and the whole app follows, in light and dark.</li>
+                <li><b>The adhan panel no longer steals your typing focus</b> — it appears quietly without switching apps.</li>
+                <li><b>Honest qibla</b> — clear "° from North" bearing with a practical hint, no fake compass claims.</li>
+                <li><b>VoiceOver &amp; keyboard access</b> for all controls, better small-text contrast, larger click targets.</li>
+                <li><b>12/24-hour clock</b> follows your macOS setting, everywhere including widgets.</li>
+                <li>Popover density setting works, prayer names localized in the main list, save cities with a star, download retry, undo-aware prayer logging, dark-mode fixes, persistent tasbih, and more.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 20 Jul 2026 17:30:00 +0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MindMints/Sukoon-updates/releases/download/v1.5/Sukoon-1.5.zip" length="4222853" type="application/octet-stream" sparkle:edSignature="Qiig142uy+Sq7xmg/9XMxD9+v5RRibXHUwaHWYRBP1DrmgSe/oM9fNo5C4xpTOExIaNzVWI7mVDzfSWWGpfVAg=="/>
+        </item>
+        <item>
             <title>1.4</title>
             <description><![CDATA[
                 <p>Sukoon 1.4 — the biggest update yet, and the first notarized release (no more security warnings on install).</p>
