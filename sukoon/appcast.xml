@@ -3,6 +3,28 @@
     <channel>
         <title>Sukoon</title>
         <item>
+            <title>1.4</title>
+            <description><![CDATA[
+                <p>Sukoon 1.4 — the biggest update yet, and the first notarized release (no more security warnings on install).</p>
+                <ul>
+                <li><b>Meeting-aware adhan</b> — silences itself when your microphone is in use, so the adhan never interrupts a call.</li>
+                <li><b>Mark prayed from the notification</b> — log a prayer without opening anything.</li>
+                <li><b>Tap-to-log on widgets</b> — check off prayers right on the widget.</li>
+                <li><b>After-adhan dua</b> — the panel lingers with the dua between adhan and iqama.</li>
+                <li><b>Travel mode</b> — suggests the locally-used calculation method when you change country.</li>
+                <li><b>Precise location</b> (opt-in) — exact times via Location Services; your location never leaves your Mac.</li>
+                <li><b>Shortcuts &amp; Siri</b> — Next Prayer, Log Prayer, and automation recipes.</li>
+                <li><b>Four new languages</b> — اردو, Türkçe, Bahasa Indonesia, Français.</li>
+                <li><b>Year in review</b> — yearly stats with a shareable card, plus live adhan phrase tracking, offline fallback, and better first-run screens.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 18 Jul 2026 23:30:00 +0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MindMints/Sukoon-updates/releases/download/v1.4/Sukoon-1.4.zip" length="4162772" type="application/octet-stream" sparkle:edSignature="4MjR80b/HYtnTmBfdAbXYJ0z2BXXfRoTG8GyCKEI/PoHLw4El/k5ebV7i+Tzk1VMh9PQ3TVUUSBE0+hHphm0DA=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <description><![CDATA[
                 <p>Sukoon 1.3 — Arabic widget faces (widgets now follow the app language), plus automatic silent updates via Sparkle.</p>
